@@ -1,6 +1,6 @@
 # misc
 Misc stuff, what else?
 
-Stuff:  
+<hr>
   
 **Wttr.sh**: script for auto-finding your local weather conditions
